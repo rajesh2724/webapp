@@ -1,0 +1,183 @@
+.header{
+    height: fit-content;
+}
+.head{
+    
+    height: fit-content;
+    background-color: rgb(185, 255, 178);
+}
+.home{
+    height: fit-content;
+    margin-left: 2%;
+    display: flex;
+}
+#space1{
+    width: 6rem;
+}
+#space{
+    width: 8rem;
+}
+.img{
+    height: 4rem;
+    width: 15rem;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    margin-left: 2%;
+    border-radius: 15px;
+}
+.btn{
+    border-width: 0;
+    height: 26px;
+    margin-top: 54%;
+    background-color: rgb(185, 255, 178);
+    font-weight: bold;
+}
+#menu{
+    margin-top: 1%;
+}
+#close{
+    border-width: 0;
+    background-color: whitesmoke;
+}
+#sbar{
+    width: 45rem;
+    height: 2rem;
+    text-align: left;
+    padding-left: 20px;
+    border-radius: 15px;
+    font-size: large;
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#login{
+    border-width: 0;
+    height: 26px;
+    margin-top: 54%;
+    margin-left: 45%; 
+    background-color: rgb(185, 255, 178);
+    font-weight: bold;
+}
+#seller{
+    border-width: 0;
+    height: 26px;
+    margin-top: 29%;
+    margin-left: 45%; 
+    background-color: rgb(185, 255, 178);
+    font-weight: bold;
+}
+.display{
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 2%;
+    height: fit-content;
+    width: 89rem;
+    background-color: white;
+}
+.menu{
+    height: 75rem;
+    width: 15rem;
+    background-color: whitesmoke;
+    margin-top: 2%;
+       
+}
+.center{
+    display: flex;
+    background-color: rgba(105, 255, 130, 0.733);
+    height:fit-content;
+}
+.banner{
+    height:19rem;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.banner:hover{
+box-shadow: 3px 3px 13px 2px;
+}
+.gap1{
+    height: 2rem;
+}
+.content{
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 2%;
+    height: fit-content;
+}
+.product1{
+    display: flex;
+}
+
+.veg1{
+    height:25rem ;
+    width: 18rem;
+}
+.veg1:hover{
+    box-shadow: 3px 3px 15px 2px;
+}
+#tomato{
+    margin-top: 6%;
+    margin-left: 3%;
+    height: 12rem;
+    width: 17rem;
+}
+.veg2{
+    height:25rem ;
+    width: 18rem;
+    margin-left: 7rem;
+}
+.veg2:hover{
+    box-shadow: 3px 3px 15px 2px;
+}
+#btr{
+    margin-top: 6%;
+    margin-left: 3%;
+    height: 12rem;
+    width: 17rem;
+}
+.veg3{
+    height:25rem ;
+    width: 18rem;
+    margin-left: 7rem;
+}
+.veg3:hover{
+    box-shadow: 3px 3px 15px 2px;
+}
+#bri{
+    margin-top: 6%;
+    margin-left: 3%;
+    height: 12rem;
+    width: 17rem;
+}
+.product2{
+    margin-top: 2%;
+    display: flex;
+}
+.veg5{
+    height:25rem ;
+    width: 18rem;
+}
+.veg5:hover{
+    box-shadow: 3px 3px 15px 2px;
+}
+#cap{
+    margin-top: 6%;
+    margin-left: 3%;
+    height: 12rem;
+    width: 17rem;
+}
+.veg6{
+    height:25rem ;
+    width: 18rem;
+    margin-left: 7rem;
+}
+.veg6:hover{
+    box-shadow: 3px 3px 15px 2px;
+}
+.veg7{
+    height:25rem ;
+    width: 18rem;
+    margin-left:7rem;
+}
+.veg7:hover{
+    box-shadow: 3px 3px 15px 2px;
+}

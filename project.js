@@ -1,0 +1,20 @@
+$(document).ready(()=>{
+    $("#menu").click(()=>{
+        $("#option").fadeIn(20)
+    })
+$("#close").click(()=>{
+    $("#option").fadeOut(20)
+   })
+  $("#login").click(()=>{
+    setTimeout(()=>{
+        $("#login").html=""
+        window.location.href="login-signin.html"
+    })
+  })
+  $("#seller").click(()=>{
+    setTimeout(()=>{
+        $("#seller").html=""
+        window.location.href="login-signin.html"
+    })
+    })
+})
